@@ -1,5 +1,7 @@
-### Hi there 👋, I'm Sam
+### Hi there 👋, I'm Sam,
+Shopify Partner and Developer. I set up Shopify Stores for clients as a freelancer and provide them with the expertise they need to become successful entrepreneurs. If you or someone you know needs an online store setting up ask me for my availability.
 
+## What am I up to?
 
 - 🔭 I’m currently working on Shopify Projects
 - 🌱 I’m currently learning Shopify Development
